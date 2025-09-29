@@ -8,7 +8,7 @@
     
 ## 🚀 Tecnologias que utilizo
 
-<p align="center">
+<p align="top">
   <!-- Python -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
        alt="Python" width="60" height="60"/>
