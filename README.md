@@ -6,11 +6,33 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioneMendes&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-</div>
+## 🚀 Tecnologias que utilizo
+
+<p align="center">
+  <!-- Python -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
+       alt="Python" width="60" height="60"/>
+       
+  <!-- JavaScript -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" 
+       alt="JavaScript" width="60" height="60"/>
+       
+  <!-- SQL -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" 
+       alt="SQL" width="60" height="60"/>
+       
+  <!-- Banco de Dados (genérico) -->
+  <img src="https://www.svgrepo.com/show/499816/database.svg" 
+       alt="Database" width="60" height="60"/>
+       
+  <!-- Node.js -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" 
+       alt="Node.js" width="60" height="60"/>
+       
+  <!-- React -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" 
+       alt="React" width="60" height="60"/>
+</p>
  
 <br>
  
